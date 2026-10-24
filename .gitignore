@@ -213,6 +213,9 @@ tempCodeRunnerFile.py
 
 # Marimo
 marimo/_static/
+*.db
+*.sqlite3
+*.gguf
 marimo/_lsp/
 __marimo__/
 
